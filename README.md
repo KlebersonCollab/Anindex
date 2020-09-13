@@ -1,5 +1,5 @@
 # Anindex
-This app promisse create a index anime episode list
+This app promise create a index anime episode list
 
 # Log:
 
