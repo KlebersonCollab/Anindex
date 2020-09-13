@@ -1,0 +1,2 @@
+# Anindex
+ Indexador de Animes
